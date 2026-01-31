@@ -62,7 +62,7 @@ kaggle-anaverse-2.0/
 ├── requirements.txt
 ├── data/        # not included (Kaggle dataset files)
 └── output/      # not included (generated submission files)
-
+```
 
 ---
 
