@@ -2,7 +2,7 @@
 data/
 
 # Generated outputs
-outputs/
+output/
 
 # Python cache
 __pycache__/
