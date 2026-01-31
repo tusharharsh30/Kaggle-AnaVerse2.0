@@ -1,0 +1,11 @@
+# Kaggle dataset
+data/
+
+# Generated outputs
+outputs/
+
+# Python cache
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
