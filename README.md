@@ -53,15 +53,15 @@ Please download them from Kaggle and place them inside the `data/` directory bef
 
 ---
 
+
 ## Repository Structure
-
-
-
+```plaintext
 kaggle-anaverse-2.0/
 ├── notebook.ipynb
 ├── README.md
 ├── requirements.txt
-└── data/ (not included)
+├── data/        # not included (Kaggle dataset files)
+└── output/      # not included (generated submission files)
 
 
 ---
